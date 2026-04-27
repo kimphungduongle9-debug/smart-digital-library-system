@@ -1,0 +1,22 @@
+GIỚI THIỆU NGÔN NGỮ PYTHON
+
+Python là một ngôn ngữ lập trình bậc cao, dễ học và dễ sử dụng. 
+
+1. Đặc điểm của Python
+- Cú pháp đơn giản, dễ đọc
+- Hỗ trợ nhiều nền tảng (Windows, Linux, MacOS)
+- Có thư viện phong phú
+- Phù hợp cho AI, Web, Data Science
+
+2. Ví dụ chương trình Python
+
+print("Hello, World!")
+
+3. Ứng dụng của Python
+- Phát triển web (Django, Flask)
+- Khoa học dữ liệu
+- Trí tuệ nhân tạo
+- Tự động hóa
+
+Kết luận:
+Python là ngôn ngữ rất phù hợp cho người mới bắt đầu và cũng được sử dụng rộng rãi trong công nghiệp.
